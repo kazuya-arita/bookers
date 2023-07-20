@@ -21,3 +21,28 @@ body{
   line-height: 18px;
   margin: 33px;
 }
+
+th{
+  padding-bottom: 5px;
+}
+
+td{
+  padding-bottom: 7px;
+  padding-right: 5px;
+  padding-left: 5px;
+}
+
+p, ul, td{
+  font-family: verdana, arial, helvetica, sans-serif;
+  font-size: 13px;
+  line-height: 18px;
+  margin: 33px;
+}
+
+.post-form, .push{
+  margin-bottom: 10px;
+}
+
+label{
+  display: block;
+}
